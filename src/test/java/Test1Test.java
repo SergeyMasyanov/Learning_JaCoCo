@@ -8,7 +8,7 @@ import static org.testng.Assert.assertTrue;
  * Created by davlet on 4/8/18.
  */
 @Test
-public class Test1 {
+public class Test1Test {
 
     @Test
     public void whenEmptyString_thenAccept() {
