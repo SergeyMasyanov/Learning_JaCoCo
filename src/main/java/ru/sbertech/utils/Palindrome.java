@@ -1,10 +1,6 @@
-package ru.sbertech;
+package ru.sbertech.utils;
 
 public class Palindrome {
-
-    public static void main(String[] args) {
-
-    }
 
     public boolean isPalindrome(String inputString) {
         if (inputString.length() == 0) {
